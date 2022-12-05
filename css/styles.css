@@ -44,7 +44,7 @@ a{
 }
 
 a:hover{
-    color: #EAF6F6;
+    color: orangered;
 }
 
 header{
@@ -157,7 +157,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #40514E;
+    background: whitesmoke;
     padding: 5px;
  }
 
